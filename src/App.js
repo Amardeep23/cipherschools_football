@@ -10,7 +10,10 @@ function App() {
   return (
     <div className="App">
       <Home></Home>
-      {/* <Watch></Watch> */}
+
+      {/* for full screen viewing of video */}
+      {/* <Watch></Watch> */}  
+
       {/* <Register></Register> */}
       {/* <Login></Login> */}
     </div>
